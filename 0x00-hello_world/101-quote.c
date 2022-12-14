@@ -3,7 +3,7 @@
 
 /**
  * main - Enrty point
- * Return always 1
+ * Return: always 1
  */
 
 int main(void)
