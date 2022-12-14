@@ -17,4 +17,5 @@ int main(void)
 	printf("size of a long int: %lu byte(S)\n". (unsigned long)size(c));
 	printf("size of a long long int: %lu byte(S)\n". (unsigned long)size(d);
 	printf("size of a float: %lu byte(S)\n". (unsigned long)size(a));
+	return (0);
 }
